@@ -1,2 +1,2 @@
 # Tweets-Analysis
-<img src="./Gifs/all_pointsGIF.gif" width="680" height="400" />
+<img src="./Gifs/ireland_gif.gif" width="600" height="292" />
