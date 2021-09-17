@@ -1,4 +1,4 @@
-# Tweets-Analysis
+# Tweets-Analysis, March 2020 - Europe
 
 In this project, we explore a large dataset of tweets collected from the twitter API during the period March 1st to March 31st 2020 These tweets were collected using a geographical filter specifying a rectangular box over Europe. The bounding box used is specified by (longitude,latitude) coordinates. The lower-left corner is at (-24.5, 34.8) and the upper-right is at (69.1, 81.9). No keyword or other thematic filters were applied, so the dataset should contain all tweets that Twitter can identify as originating from the specified region, irrespective of their topic/content.The data is downloaded as a number of compressed files each covering 1 day of data. The whole dataset is large (typically around 450Mb per day when compressed) and contains millions of tweets. It makes up a total of 13.3 GB of compressed data which reaches to 100 GB on being uncompressed. Each file contains a tweet on every line. Tweets are stored as JSON objects, as described in the Twitter developer documentation. <br> </br>
 The project is covered in different parts. <br> </br>
@@ -17,7 +17,7 @@ The project is covered in different parts. <br> </br>
 <img src="./Gifs/all_pointsGIF.gif" width="800" height="400" />
 
 <img src="./Gifs/ireland_gif.gif" width="800" height="400" />
-<br></br>
+
 3. **Users**
   * Analysing tweets per user.
   * Analysing top users and automated accounts.
