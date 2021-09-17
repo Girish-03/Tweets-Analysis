@@ -14,9 +14,9 @@ The project is covered in different parts. <br> </br>
   * Using clustered maps to mark geo tagged tweets.
   * Functionality to read tweets by clikiing on map markers.
 
-<img src="./Gifs/all_pointsGIF.gif" width="800" height="400" />
+<img src="./Gifs/all_720gif.gif" width="800" height="400" />
 
-<img src="./Gifs/ireland_gif.gif" width="800" height="400" />
+<img src="./Gifs/ireland_720gif.gif" width="800" height="400" />
 
 3. **Users**
   * Analysing tweets per user.
