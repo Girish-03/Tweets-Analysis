@@ -12,7 +12,7 @@ The project is covered in different parts. <br> </br>
   
 3. **Mapping** - The interactive folium maps are not renedered in github notebook. GIFs and html map files in repo can be used to chekout interactive maps. 
   * Using clustered maps to mark geo tagged tweets.
-  * Functionality to read tweets by clikiing on map markers.
+  * Functionality to read tweets by clicking on map markers.
 
 <img src="./Gifs/all_720gif.gif" width="800" height="400" />
 
